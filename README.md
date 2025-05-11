@@ -229,15 +229,9 @@ npm start
 
 ---
 
-## 🖼️ Screenshots
-
-> _Add relevant screenshots here if needed for presentation_
-
----
-
 ## 👨‍💻 Author
 
-Developed by [Your Name]
+Developed by Kathera Vamshi
 
 > Built for demonstrating full-stack web development with real-world workflows and role-based logic.
 
